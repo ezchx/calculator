@@ -8,4 +8,3 @@ Primarily JS with HTML and CSS.
 
 Solar power is optional.
 
-The live version is here http://ezchx.com/calculator/calculator.html

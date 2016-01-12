@@ -1,0 +1,40 @@
+.calculator {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.display {
+  position: absolute;
+  padding-top: 20px;
+  padding-right: 5px;
+  height: 87px;
+  width: 256px;
+  background-color: #FFFFFF;
+  left: 150px;
+  top: 83px;
+  font-type: ;
+  color: #000000;
+  text-align: right;
+}
+
+.display2 {
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 5px;
+  height: 87px;
+  width: 256px;
+  left: 150px;
+  top: 83px;
+  font-type: ;
+  color: #000000;
+  text-align: left;
+}
+
+p {
+  font-size: 30pt;
+}
+
+.memy {
+  font-size: 15pt;
+}
